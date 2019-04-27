@@ -1,4 +1,5 @@
 function sayHiToGrandma(string) {
-  {sayHiToGrandma === string.toUpperCase()}
-  return("YES INDEED!")
+  {sayHiToGrandma === ("I love you, Grandma.")}
+  return("I, love you too.")
 }
+
