@@ -1,3 +1,3 @@
 function whisper(string) {
-  return string.toLpperCase()
+  return string.toLowerCase()
 }
