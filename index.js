@@ -1,3 +1,3 @@
-function sayHiToGrandma(string) {if string.toLowerCase() === lowercase
+function sayHiToGrandma(string) {if string.toLowerCase() === string
   return("I can't hear you"))
 }
