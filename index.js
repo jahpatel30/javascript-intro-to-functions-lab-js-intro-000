@@ -1,3 +1,3 @@
 function logWhisper(string) {
-  console.log(string.toLpperCase())
+  console.log(string.toLowerCase())
 }
